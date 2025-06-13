@@ -22,7 +22,7 @@ This Python project automates data entry into the Windows Notepad application us
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/tjm-project.git
+git clone https://github.com/ehab1441/Automated-Data-Entry-Bot.git
 cd tjm-project
 python -m venv venv
 venv\Scripts\activate
